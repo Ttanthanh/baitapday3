@@ -9,6 +9,6 @@ img {
     height: auto;
 }
 
-* {
+p, ul, ol {
     margin: 60px 0;
 }
